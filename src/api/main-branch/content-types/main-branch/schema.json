@@ -1,0 +1,15 @@
+{
+  "kind": "collectionType",
+  "collectionName": "main_branches",
+  "info": {
+    "singularName": "main-branch",
+    "pluralName": "main-branches",
+    "displayName": "main-branch",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}

@@ -1,0 +1,52 @@
+{
+  "kind": "singleType",
+  "collectionName": "contact_infos",
+  "info": {
+    "singularName": "contact-info",
+    "pluralName": "contact-infos",
+    "displayName": "contact_Info",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "main_brachcity": {
+      "type": "string"
+    },
+    "mainaddress": {
+      "type": "string"
+    },
+    "mainPhoneNumber": {
+      "type": "string"
+    },
+    "mainEmail": {
+      "type": "email"
+    },
+    "b1city": {
+      "type": "string"
+    },
+    "b1address": {
+      "type": "string"
+    },
+    "b1PhoneNumber": {
+      "type": "string"
+    },
+    "b1email": {
+      "type": "email"
+    },
+    "b2city": {
+      "type": "string"
+    },
+    "b2address": {
+      "type": "string"
+    },
+    "b2PhoneNumber": {
+      "type": "string"
+    },
+    "b2email": {
+      "type": "email"
+    }
+  }
+}
